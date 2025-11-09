@@ -108,3 +108,4 @@ Para obtener más información sobre cómo seguir a usuarios, lee ["Seguir a per
 * [Laboratorio de aprendizaje de GitHub](https://lab.github.com/)
 * [Foro de la comunidad educativa](https://education.github.community/)
 * [Foro de la comunidad GitHub](https://github.community/)
+y aqui hacemos los mismos pasos que antes
